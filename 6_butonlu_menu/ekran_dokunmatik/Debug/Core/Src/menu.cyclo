@@ -1,0 +1,5 @@
+../Core/Src/menu.c:36:6:drawMenu	5
+../Core/Src/menu.c:63:6:animateMenuTransition	9
+../Core/Src/menu.c:98:6:show_startup_screen	1
+../Core/Src/menu.c:119:6:drawThemePage	1
+../Core/Src/menu.c:131:6:theme_page_tuslari	7

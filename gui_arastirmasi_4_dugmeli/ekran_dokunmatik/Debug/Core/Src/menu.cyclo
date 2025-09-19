@@ -1,0 +1,14 @@
+../Core/Src/menu.c:47:6:Menu_Init	1
+../Core/Src/menu.c:72:6:Menu_Draw	7
+../Core/Src/menu.c:94:15:getDeviceIcon	5
+../Core/Src/menu.c:105:6:drawMainMenu	3
+../Core/Src/menu.c:128:6:drawRoomDetail	4
+../Core/Src/menu.c:160:6:drawSettingsRoomList	4
+../Core/Src/menu.c:195:6:drawSettingsRoomDetail	5
+../Core/Src/menu.c:240:6:Menu_AddRoom	10
+../Core/Src/menu.c:278:6:drawConfirmDeleteRoom	3
+../Core/Src/menu.c:312:6:Menu_RemoveRoom	5
+../Core/Src/menu.c:326:6:Menu_HandleInput	50
+../Core/Src/menu.c:453:6:UG_draw_pixel	1
+../Core/Src/menu.c:458:8:convertToUGBMP	1
+../Core/Src/menu.c:470:6:show_startup_screen	1

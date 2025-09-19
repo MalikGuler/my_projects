@@ -1,0 +1,4 @@
+../Core/Src/menu.c:28:6:SendUART	2
+../Core/Src/menu.c:36:6:drawMenu	5
+../Core/Src/menu.c:57:6:IQS7222A_anyChannelTouched	3
+../Core/Src/menu.c:69:6:checkTouch	7

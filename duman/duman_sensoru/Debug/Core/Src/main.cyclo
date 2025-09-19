@@ -1,0 +1,10 @@
+../Core/Src/main.c:84:5:main	5
+../Core/Src/main.c:160:6:SystemClock_Config	4
+../Core/Src/main.c:210:13:MX_I2C1_Init	4
+../Core/Src/main.c:258:13:MX_GPIO_Init	1
+../Core/Src/main.c:294:6:ADPD188BI_WriteReg	1
+../Core/Src/main.c:304:10:ADPD188BI_ReadReg	1
+../Core/Src/main.c:313:6:ADPD188BI_Init	1
+../Core/Src/main.c:351:10:ADPD188BI_Read_Smoke	1
+../Core/Src/main.c:356:6:Enter_Stop_Mode	1
+../Core/Src/main.c:371:6:Error_Handler	1

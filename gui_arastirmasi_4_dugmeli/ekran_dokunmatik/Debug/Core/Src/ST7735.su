@@ -1,0 +1,17 @@
+../Core/Src/ST7735.c:102:6:ST7735_Select	8	static
+../Core/Src/ST7735.c:107:6:ST7735_Unselect	8	static
+../Core/Src/ST7735.c:112:6:ST7735_Reset	8	static
+../Core/Src/ST7735.c:119:8:ST7735_WriteCommand	16	static
+../Core/Src/ST7735.c:125:6:ST7735_WriteData	16	static
+../Core/Src/ST7735.c:131:6:DisplayInit	32	static
+../Core/Src/ST7735.c:158:6:ST7735_SetAddressWindow	32	static
+../Core/Src/ST7735.c:175:6:ST7735_Init	16	static
+../Core/Src/ST7735.c:204:6:ST7735_SetRotation	24	static
+../Core/Src/ST7735.c:264:6:ST7735_DrawPixel	32	static
+../Core/Src/ST7735.c:277:6:ST7735_WriteChar	48	static
+../Core/Src/ST7735.c:296:6:ST7735_WriteString	48	static
+../Core/Src/ST7735.c:322:6:ST7735_FillRectangle	32	static
+../Core/Src/ST7735.c:342:6:ST7735_DrawImage	24	static
+../Core/Src/ST7735.c:353:6:ST7735_InvertColors	16	static
+../Core/Src/ST7735.c:360:6:ST7735_ClearSprite	32	static
+../Core/Src/ST7735.c:365:6:FillScreen	24	static

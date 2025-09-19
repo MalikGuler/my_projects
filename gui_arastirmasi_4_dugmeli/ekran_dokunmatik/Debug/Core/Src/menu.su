@@ -1,0 +1,14 @@
+../Core/Src/menu.c:47:6:Menu_Init	8	static
+../Core/Src/menu.c:72:6:Menu_Draw	16	static
+../Core/Src/menu.c:94:15:getDeviceIcon	16	static
+../Core/Src/menu.c:105:6:drawMainMenu	40	static
+../Core/Src/menu.c:128:6:drawRoomDetail	72	static
+../Core/Src/menu.c:160:6:drawSettingsRoomList	40	static
+../Core/Src/menu.c:195:6:drawSettingsRoomDetail	72	static
+../Core/Src/menu.c:240:6:Menu_AddRoom	24	static
+../Core/Src/menu.c:278:6:drawConfirmDeleteRoom	16	static
+../Core/Src/menu.c:312:6:Menu_RemoveRoom	32	static
+../Core/Src/menu.c:326:6:Menu_HandleInput	64	static
+../Core/Src/menu.c:453:6:UG_draw_pixel	24	static
+../Core/Src/menu.c:458:8:convertToUGBMP	40	static
+../Core/Src/menu.c:470:6:show_startup_screen	48	static
