@@ -1,5 +1,5 @@
 # Burada benim yaz stajı bounca yaptığım projeler bulunmaktadır.
-Farklı klasörde aynı klsaör ve dosya isimlerinin olmasınının nedeni o dosyaları farklı branch'lerde kullanmış olmamdan kaynaklanmaktadır.
+Farklı klasörde aynı klasör ve dosya isimlerinin olmasınının nedeni o dosyaları farklı branch'lerde kullanmış olmamdan kaynaklanmaktadır.
 Yani her bir klasör ayrı projelerdir.Sadece farklı branchlerde ilerledim.
 Bir sorun halinde malikkgguler@gmail.com adresinden bana ulaşabilirsiniz.
 
